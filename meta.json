@@ -1,0 +1,9 @@
+{
+  "trained_at": "2025-12-14T11:01:57.754651Z",
+  "text_col": "reviewText",
+  "label_col": "verifiedPurchase",
+  "test_size": 0.2,
+  "random_state": 42,
+  "model": "LogisticRegression(class_weight=balanced)",
+  "vectorizer": "TfidfVectorizer(ngram_range=(1,2), max_features=30000, min_df=2, max_df=0.95)"
+}
